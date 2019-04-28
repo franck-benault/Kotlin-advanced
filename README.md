@@ -4,4 +4,10 @@ Resources about about Kotlin language for java backend developper *advanced leve
 Before reading this page if you have a low knowlegde about Kotlin please have look to this page https://github.com/franck-benault/Kotlin-basic
 
 
+# Coroutines
+coroutine starting
+* async { ... } return something
+* launch { ... } fire and forget
+
+
 
