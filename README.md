@@ -9,5 +9,13 @@ coroutine starting
 * async { ... } return something
 * launch { ... } fire and forget
 
+# Kotlin and data science
+
+# Springboot
+
+
+# Ktor
+
+
 
 
