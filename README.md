@@ -7,6 +7,8 @@ Before reading this page if you have a low knowlegde about Kotlin please have lo
 * Junit5
 * MockK
 
+look also at the interessing post https://phauer.com/2018/best-practices-unit-testing-kotlin/
+
 # Coroutines
 coroutine starting
 * async { ... } return something
